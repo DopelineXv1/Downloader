@@ -57,7 +57,7 @@ python -m pip install dataclasses
 
 1. เปิดหน้า [Releases](../../releases)
 2. ดาวน์โหลดไฟล์โปรแกรมจาก Release ล่าสุด
-3. แตกไฟล์ ZIP หากไฟล์ที่ดาวน์โหลดเป็น ZIP
+3. แตกไฟล์ ZIP 
 4. เปิดไฟล์ `VideoDownloader.exe`
 
 ### 4. เริ่มใช้งาน
